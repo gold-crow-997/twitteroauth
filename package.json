@@ -38,7 +38,7 @@
     "@prettier/plugin-php": "0.22.4",
     "concurrently": "^9.1.2",
     "prettier": "3.5.3",
-    "prettier-plugin-package": "1.4.0"
+    "prettier-plugin-package": "2.0.0"
   },
   "directories": {
     "test": "tests"
